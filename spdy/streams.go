@@ -5,7 +5,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/docker/spdystream"
+	"github.com/moby/spdystream"
 )
 
 // Stream is an interface to represent a single

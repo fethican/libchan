@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/dmcgowan/msgpack"
-	"github.com/docker/libchan"
+	"github.com/vmihailenco/msgpack"
+	"github.com/fethican/libchan"
 )
 
 const (

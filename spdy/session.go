@@ -9,8 +9,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/dmcgowan/msgpack"
-	"github.com/docker/libchan"
+	"github.com/vmihailenco/msgpack"
+	"github.com/fethican/libchan"
 )
 
 var (
